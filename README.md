@@ -12,7 +12,8 @@ This repository contains simple Python programs that I created while learning Py
 - Grade calculator
 - Time based greeting
 - Multiplication table
-- List methods practice
+- List methods practice (append, extend, insert, remove, sort, reverse, index, count, looping)
+- Tuple operations practice (create, access, count, index)
 
 ## Status
 Currently learning Python and improving step by step.
