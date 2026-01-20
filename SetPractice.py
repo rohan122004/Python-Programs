@@ -7,7 +7,7 @@ print(type(rohan))
 
 """
 union se sirf value sath me show hoti h,
-or update se value update hojaati h jaise ki s2 ki va;ue s1 me update hojati h
+or update se value update hojaati h jaise ki s2 ki value s1 me update hojati h
 """
 s = {1,2,5,6}
 s2= {3,6,7}
