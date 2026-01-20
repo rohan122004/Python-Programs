@@ -15,6 +15,7 @@ This repository contains simple Python programs that I created while learning Py
 - List methods practice (append, extend, insert, remove, sort, reverse, index, count, looping)
 - Tuple operations practice (create, access, count, index)
 - Set operations practice (Create, Add, Update, Remove, Union, Intersection, Symmetric difference, Subset, Superset)
+- Dictionary operations practice (Create, Access, Get, Update, Keys, Values, Items, Looping, Clear)
 
 ## Status
 Currently learning Python and improving step by step.
