@@ -14,6 +14,7 @@ This repository contains simple Python programs that I created while learning Py
 - Multiplication table
 - List methods practice (append, extend, insert, remove, sort, reverse, index, count, looping)
 - Tuple operations practice (create, access, count, index)
+- Set operations practice (Create, Add, Update, Remove, Union, Intersection, Symmetric difference, Subset, Superset)
 
 ## Status
 Currently learning Python and improving step by step.
