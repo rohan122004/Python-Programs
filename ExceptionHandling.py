@@ -40,3 +40,13 @@ def func1():
         print("i am always executed")
 x = func1()
 print(x)
+
+
+
+#---------------------------
+#Raise Keyword
+a = int(input("Enter a number between 5 to 9"))
+
+if (a < 5 or a > 9):
+    raise ValueError ("a number between 5 to 10")
+print("Enter a valid number")
