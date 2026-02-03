@@ -17,7 +17,7 @@ This repository contains simple Python programs that I created while learning Py
 - Set operations practice (Create, Add, Update, Remove, Union, Intersection, Symmetric difference, Subset, Superset)
 - Dictionary operations practice (Create, Access, Get, Update, Keys, Values, Items, Looping, Clear)
 - Loop else concept practice (for-else, while-else with break)
-- Exception handling practice (try, except, else, finally)
+- Exception handling practice (try, except, else, finally, raise)
 
 ## Status
 Currently learning Python and improving step by step.
