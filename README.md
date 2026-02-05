@@ -19,6 +19,7 @@ This repository contains simple Python programs that I created while learning Py
 - Loop else concept practice (for-else, while-else with break)
 - Exception handling practice (try, except, else, finally, raise)
 - Short hand if else practice
+- import statement practice
 
 ## Status
 Currently learning Python and improving step by step.
